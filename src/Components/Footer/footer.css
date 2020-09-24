@@ -1,0 +1,9 @@
+#footer {
+  width: 100%;
+  background: linear-gradient(to right, rgb(133, 95, 26), black);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 13px;
+  color: white;
+}

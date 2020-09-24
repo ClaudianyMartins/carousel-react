@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#main-development-card {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+}
+.development-card {
+  width: 22%;
+  height: 60vh;
+  margin: 15px;
+  border: 1px solid black;
+  border-radius: 7px;
+}
+.background-img {
+  height: 35%;
+  background-image: linear-gradient(to right, rgb(133, 95, 26), black);
+  position: relative;
+  margin-bottom: 5rem;
+}
+
+.img {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  border: 5px solid white;
+  max-width: 40%;
+  border-radius: 50%;
+}
+h3 {
+  font-size: 26px;
+}
+h6 {
+  font-size: 16px;
+  font-weight: lighter;
+  margin-bottom: 2rem;
+}
+
+section {
+  width: 100%;
+  height: 15%;
+}
+.btn-rede {
+  width: 20%;
+  height: 90%;
+  background-color: rgb(133, 95, 26);
+  border: none;
+  color: yellow;
+  border-radius: 50%;
+  margin: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+/* #cintia {
+  width: 20%;
+  height: 20%;
+  border-radius: 40px;
+  margin-top: 10px;
+}
+
+#cintia1 {
+  font-variant-caps: small-caps;
+  color: #8b4513;
+}
+
+#thuane {
+  width: 30%;
+  height: 30%;
+  border-radius: 90px;
+  margin-top: 10px;
+}
+
+#thuane1 {
+  font-variant-caps: small-caps;
+  color: #8b4513;
+} */
