@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import Header from "../../Components/Header/index";
 import "./somos.css";
-import Cintia from "../../assets/imagens/imagem.jpeg";
-import Thuane from "../../assets/imagens/imagem2.jpeg";
+//import Cintia from "../../assets/imagens/imagem.jpeg";
+//import Thuane from "../../assets/imagens/imagem2.jpeg";
 
 export default class Somos extends Component {
   render() {
@@ -12,7 +12,7 @@ export default class Somos extends Component {
         <div id="main-development-card">
           <div className="development-card">
             <div className="background-img">
-              <img className="img" src={Cintia} alt="Foto-Perfil" />
+              {/* <img className="img" src={Cintia} alt="Foto-Perfil" /> */}
             </div>
             <h3>Cintia</h3>
             <h6>Development Front-End</h6>
@@ -24,7 +24,7 @@ export default class Somos extends Component {
           </div>
           <div className="development-card">
             <div className="background-img">
-              <img className="img" src={Thuane} alt="Foto-Perfil" />
+              {/* <img className="img" src={Thuane} alt="Foto-Perfil" /> */}
             </div>
             <h3>Thuane</h3>
             <h6>Development Front-End</h6>

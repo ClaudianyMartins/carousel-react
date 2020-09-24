@@ -3,8 +3,8 @@ import React, { Component } from "react";
 import Header from "../Header";
 import "./home.css";
 
-import cerva from "../../assets/imagens/cerva.jpg";
-import cerveja from "../../assets/imagens/cerveja.jpg";
+import cerva from "../../assets/imagens/cerva.jpeg";
+import cerveja from "../../assets/imagens/cerveja.png";
 
 import Carousel, {
   slidesToShowPlugin,
